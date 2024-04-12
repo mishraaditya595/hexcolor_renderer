@@ -1,8 +1,17 @@
 name: hexcolor_renderer
 description: "to render a hexcolor string as material color"
-version: 0.1.0
+version: 0.1.1
 homepage: https://github.com/mishraaditya595/hexcolor_renderer.git
 author: Aditya Mishra<mishraaditya595@gmail.com>
+
+# This package supports all platforms listed below.
+platforms:
+  android:
+  ios:
+  linux:
+  macos:
+  web:
+  windows:
 
 environment:
   sdk: '>=3.2.3 <4.0.0'
