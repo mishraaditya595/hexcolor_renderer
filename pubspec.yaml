@@ -1,6 +1,6 @@
 name: hexcolor_renderer
 description: "to render a hexcolor string as material color"
-version: 0.0.1
+version: 0.1.0
 homepage: https://github.com/mishraaditya595/hexcolor_renderer.git
 author: Aditya Mishra<mishraaditya595@gmail.com>
 
